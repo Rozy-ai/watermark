@@ -1,7 +1,7 @@
 # watermark
 Add watermark with php to jpg and png
-
+<br>
 git pull
-//replace watermark, jpg, png 
-cd watermark
-php index.php
+<br>//replace watermark, jpg, png 
+<br>cd watermark
+<br>php index.php
